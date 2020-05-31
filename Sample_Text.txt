@@ -1,0 +1,4 @@
+5+ years of relevant work experience in analytics, data engineering, complex ETL and business intelligence.
+5+ years of experience in implementing big data processing technology: Hadoop, Apache Spark, etc.
+Experience writing and optimizing advanced SQL queries in a business environment with large-scale, complex datasets.
+Experience with read-only optimization of data storage and queries to enable <100ms RESTful micro web services design and DaaS architecture, ideally without a need for a cache layer.
